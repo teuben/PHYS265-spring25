@@ -1,4 +1,4 @@
-# PHYS265: Introduction to Scientific Programming
+# PHYS265: Introduction to Scientific Programming.
 
 Introduction to scientific programming with python. Basic data types,
 sequences, input/output, and program control flow
